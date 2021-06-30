@@ -1,4 +1,4 @@
-//일단은 다시 한번 확인 
+//일단은 다시 한번 확인 asdasdasdasdsad
 //그냥 confirmasdwdasdsadasd
 #include <stdio.h>
 int main(void)
